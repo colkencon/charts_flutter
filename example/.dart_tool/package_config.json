@@ -20,16 +20,10 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "charts_common",
-      "rootUri": "../../../charts_common",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "charts_flutter",
       "rootUri": "../../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.16"
     },
     {
       "name": "clock",
@@ -164,7 +158,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-03-01T14:17:15.078225Z",
+  "generated": "2023-03-01T15:27:10.577694Z",
   "generator": "pub",
   "generatorVersion": "2.19.2"
 }
